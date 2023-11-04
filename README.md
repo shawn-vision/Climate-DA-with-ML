@@ -1,2 +1,2 @@
-# Climate-DA-with-ML
+# Probabilistic Density Assimilation for Climate Science
 Climate Data Assimilation with cNF
