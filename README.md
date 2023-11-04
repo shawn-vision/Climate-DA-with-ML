@@ -1,4 +1,4 @@
-# Probabilistic Density Assimilation for Climate Science
+# Probabilistic Assimilation for Climate Science
 
 This project summaries the codes for the submission:
 
